@@ -4,18 +4,19 @@
 
 Personal Finance Tracker is a Flutter-based application designed to assist users in managing their personal expenses. The application encompasses various features and functionalities that contribute to a seamless experience.
 
-### Screenshots
+### Features
 
-Here are some screenshots showcasing the key functionalities of the application:
+
 
 <p align="center">
-  <img src="Simulator Screenshot - iPhone 14 Pro Max - 2023-08-12 at 16.14.43.png" width="200"/>
-  <img src="Simulator Screenshot - iPhone 14 Pro Max - 2023-08-12 at 16.17.30.png" width="200"/>
-  <img src="Simulator Screenshot - iPhone 14 Pro Max - 2023-08-12 at 16.17.33.png" width="200"/>
-  <img src="Simulator Screenshot - iPhone 14 Pro Max - 2023-08-12 at 16.17.40.png" width="200"/>
-  <img src="Simulator Screenshot - iPhone 14 Pro Max - 2023-08-12 at 16.17.43.png" width="200"/>
-  <img src="Simulator Screenshot - iPhone 14 Pro Max - 2023-08-12 at 16.17.47.png" width="200"/>
+  ![Screenshot_1697734390](https://github.com/Oluwaseyieniola/trace/assets/80404459/e7a863b5-fe6a-481f-85e9-ab70101b556f)
+  ![Screenshot_1697734441](https://github.com/Oluwaseyieniola/trace/assets/80404459/2055e6ca-19ee-4fbe-845b-cdd83ccdcfb6)
+  ![Screenshot_1697734446](https://github.com/Oluwaseyieniola/trace/assets/80404459/5ae363d6-eb02-4e6a-b589-f2f98ece6603)
+  ![Screenshot_1697734458](https://github.com/Oluwaseyieniola/trace/assets/80404459/7cd90063-aa7f-4379-9bd4-dffca045bcd1)
+  ![Screenshot_1697734474](https://github.com/Oluwaseyieniola/trace/assets/80404459/745a8d75-e705-415f-90c0-6bb0ca548d0e)
 </p>
+
+
 
 ## Key Features
 
@@ -26,9 +27,7 @@ Here are some screenshots showcasing the key functionalities of the application:
 - **Database Interaction**: Leverages SQLite for local data storage, managed through `database_provider.dart`.
 
 
-## Contributions and Support
 
-Feel free to contribute to the development of this application or reach out for support through the designated channels.
 
 ---
 
