@@ -8,7 +8,7 @@ Personal Finance Tracker is a Flutter-based application designed to assist users
 
 
 
-
+  ![Screenshot_1697734315](https://github.com/Oluwaseyieniola/trace/assets/80404459/5f905f11-b5e7-4067-b028-4f843503ce54)
   ![Screenshot_1697734390](https://github.com/Oluwaseyieniola/trace/assets/80404459/e7a863b5-fe6a-481f-85e9-ab70101b556f)
   ![Screenshot_1697734441](https://github.com/Oluwaseyieniola/trace/assets/80404459/2055e6ca-19ee-4fbe-845b-cdd83ccdcfb6)
   ![Screenshot_1697734446](https://github.com/Oluwaseyieniola/trace/assets/80404459/5ae363d6-eb02-4e6a-b589-f2f98ece6603)
